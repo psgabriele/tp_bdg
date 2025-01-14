@@ -1,4 +1,4 @@
-# tp_bdg]
+# TP_ BDG
 O presente trabalho prático visa colocar em prática conceitos e princípios discutidos ao
 longo da disciplina, usando dados e situações reais. O trabalho será baseado em dados
 de votação, mantidos pelo Tribunal Superior Eleitoral, e publicados em seu portal de
